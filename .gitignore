@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/.env
+
+# Node / React Native
+node_modules/
+mobile/.bundle/
+
+# Android
+mobile/android/.gradle/
+mobile/android/.idea/
+mobile/android/.kotlin/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/local.properties
+*.jks
+
+# iOS
+mobile/ios/Pods/
+mobile/ios/build/
+
+# SO
+.DS_Store
+Thumbs.db

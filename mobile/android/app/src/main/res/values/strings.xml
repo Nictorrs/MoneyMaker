@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoneyMaker</string>
+    <string name="notification_listener_label">MoneyMaker: registro automático de alertas bancarias</string>
+</resources>
